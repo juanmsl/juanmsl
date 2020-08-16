@@ -8,4 +8,4 @@ Fullstack engineer.
 
 I’m a web developer who is passionate about what I do, programming and design, both of them are my hobbies and my livelihood, making things functional and visually attractive are some of my priorities.
 
-###### Last update, Saturday, August 15, 11:32 PM GMT-5
+###### Last update, Sunday, August 16, 12:05 AM GMT-5
